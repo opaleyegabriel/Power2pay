@@ -1,0 +1,6 @@
+1. Land Sales App
+2. ALS-Automated Laundry System
+3. ATS-Automated Transport System
+4. EDS-Eatry and Delivery SYstem
+5. IMDM-Items Management and Delivery System
+6. PMS-Property Management System
