@@ -1,1 +1,3 @@
 keep all available roles here
+Itemise all available roles and attribute menus or function
+as appropriate
