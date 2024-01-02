@@ -1,0 +1,1 @@
+C:\Projects\Power2pay\Power2pay\landsales\bin\Debug\landsales.exe.config

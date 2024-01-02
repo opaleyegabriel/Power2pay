@@ -2,5 +2,15 @@
 2. ALS-Automated Laundry System
 3. ATS-Automated Transport System
 4. EDS-Eatry and Delivery SYstem
-5. IMDM-Items Management and Delivery System
+5. IDM-Items and Delivery Management
 6. PMS-Property Management System
+7. POS-Point of Sales Automation
+8. CMS- Cooperative Management System
+9. LMS-Loan Management System
+10. eCommerce
+11.HMS-Health Management System
+12. UMS- University Management System
+13. TIRS-Tertiary Institution Registry System
+14. TIBS-Tertiary Institution Bursary System
+15. DVLS-Digital Video Library System
+16. School Management
