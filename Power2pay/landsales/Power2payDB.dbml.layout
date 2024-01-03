@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Power2payDB">
+  <DataContextMoniker Name="/Power2payDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5ad1a54c-0958-49f5-8a56-1eadf3c520f6" absoluteBounds="0.875, 0.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/Power2payDBDataContext/tbl_Company" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79e89298-ea3c-4fcf-a125-746a029e99ff" absoluteBounds="0.88999999999999968, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

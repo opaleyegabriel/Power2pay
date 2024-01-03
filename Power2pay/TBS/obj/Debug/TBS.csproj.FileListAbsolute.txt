@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\TBS\bin\Debug\TBS.exe.config
+C:\Projects\Power2pay\Power2pay\TBS\bin\Debug\TBS.exe
+C:\Projects\Power2pay\Power2pay\TBS\bin\Debug\TBS.pdb
+C:\Projects\Power2pay\Power2pay\TBS\obj\Debug\TBS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\TBS\obj\Debug\TBS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\TBS\obj\Debug\TBS.exe
+C:\Projects\Power2pay\Power2pay\TBS\obj\Debug\TBS.pdb

@@ -10,7 +10,7 @@
 10. eCommerce
 11.HMS-Health Management System
 12. UMS- University Management System
-13. TIRS-Tertiary Institution Registry System
-14. TIBS-Tertiary Institution Bursary System
+13. TRS-Tertiary Institution Registry System
+14. TBS-Tertiary Institution Bursary System
 15. DVLS-Digital Video Library System
 16. School Management

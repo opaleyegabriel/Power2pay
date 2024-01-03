@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\DVLS\bin\Debug\DVLS.exe.config
+C:\Projects\Power2pay\Power2pay\DVLS\bin\Debug\DVLS.exe
+C:\Projects\Power2pay\Power2pay\DVLS\bin\Debug\DVLS.pdb
+C:\Projects\Power2pay\Power2pay\DVLS\obj\Debug\DVLS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\DVLS\obj\Debug\DVLS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\DVLS\obj\Debug\DVLS.exe
+C:\Projects\Power2pay\Power2pay\DVLS\obj\Debug\DVLS.pdb

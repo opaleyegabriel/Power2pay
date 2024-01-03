@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\eCommerce\bin\Debug\eCommerce.exe.config
+C:\Projects\Power2pay\Power2pay\eCommerce\bin\Debug\eCommerce.exe
+C:\Projects\Power2pay\Power2pay\eCommerce\bin\Debug\eCommerce.pdb
+C:\Projects\Power2pay\Power2pay\eCommerce\obj\Debug\eCommerce.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\eCommerce\obj\Debug\eCommerce.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\eCommerce\obj\Debug\eCommerce.exe
+C:\Projects\Power2pay\Power2pay\eCommerce\obj\Debug\eCommerce.pdb

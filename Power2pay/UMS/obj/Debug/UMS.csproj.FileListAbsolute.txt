@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\UMS\bin\Debug\UMS.exe.config
+C:\Projects\Power2pay\Power2pay\UMS\bin\Debug\UMS.exe
+C:\Projects\Power2pay\Power2pay\UMS\bin\Debug\UMS.pdb
+C:\Projects\Power2pay\Power2pay\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\UMS\obj\Debug\UMS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\UMS\obj\Debug\UMS.exe
+C:\Projects\Power2pay\Power2pay\UMS\obj\Debug\UMS.pdb

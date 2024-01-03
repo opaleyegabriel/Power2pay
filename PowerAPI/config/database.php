@@ -4,7 +4,7 @@
 		private $host='localhost';
 
 		//private $db_name='cfrmtsjr_land';
-		private $db_name='dreamcit_land';
+		private $db_name='dreamcit_power2pay';
 
 		//private $db_name='yeasaorg_power2pay_coop';
 		//private $username='cfrmtsjr_land';

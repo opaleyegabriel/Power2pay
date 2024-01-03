@@ -1,0 +1,5 @@
+C:\Projects\Power2pay\Power2pay\power2payLibrary\bin\Debug\power2payLibrary.dll
+C:\Projects\Power2pay\Power2pay\power2payLibrary\bin\Debug\power2payLibrary.pdb
+C:\Projects\Power2pay\Power2pay\power2payLibrary\obj\Debug\power2payLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\Power2pay\Power2pay\power2payLibrary\obj\Debug\power2payLibrary.dll
+C:\Projects\Power2pay\Power2pay\power2payLibrary\obj\Debug\power2payLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\HMS\bin\Debug\HMS.exe.config
+C:\Projects\Power2pay\Power2pay\HMS\bin\Debug\HMS.exe
+C:\Projects\Power2pay\Power2pay\HMS\bin\Debug\HMS.pdb
+C:\Projects\Power2pay\Power2pay\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\HMS\obj\Debug\HMS.exe
+C:\Projects\Power2pay\Power2pay\HMS\obj\Debug\HMS.pdb

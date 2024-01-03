@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\IDM\bin\Debug\IDM.exe.config
+C:\Projects\Power2pay\Power2pay\IDM\bin\Debug\IDM.exe
+C:\Projects\Power2pay\Power2pay\IDM\bin\Debug\IDM.pdb
+C:\Projects\Power2pay\Power2pay\IDM\obj\Debug\IDM.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\IDM\obj\Debug\IDM.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\IDM\obj\Debug\IDM.exe
+C:\Projects\Power2pay\Power2pay\IDM\obj\Debug\IDM.pdb

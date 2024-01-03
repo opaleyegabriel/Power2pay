@@ -1,0 +1,8 @@
+C:\Projects\Power2pay\Power2pay\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Projects\Power2pay\Power2pay\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Projects\Power2pay\Power2pay\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Projects\Power2pay\Power2pay\SchoolManagement\obj\Debug\SchoolManagement.Form1.resources
+C:\Projects\Power2pay\Power2pay\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Projects\Power2pay\Power2pay\SchoolManagement\obj\Debug\SchoolManagement.pdb

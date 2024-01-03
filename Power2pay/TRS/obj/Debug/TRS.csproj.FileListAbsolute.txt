@@ -1,0 +1,7 @@
+C:\Projects\Power2pay\Power2pay\TRS\bin\Debug\TRS.exe.config
+C:\Projects\Power2pay\Power2pay\TRS\bin\Debug\TRS.exe
+C:\Projects\Power2pay\Power2pay\TRS\bin\Debug\TRS.pdb
+C:\Projects\Power2pay\Power2pay\TRS\obj\Debug\TRS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\TRS\obj\Debug\TRS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\TRS\obj\Debug\TRS.exe
+C:\Projects\Power2pay\Power2pay\TRS\obj\Debug\TRS.pdb

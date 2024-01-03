@@ -1,0 +1,8 @@
+C:\Projects\Power2pay\Power2pay\PMS\bin\Debug\PMS.exe.config
+C:\Projects\Power2pay\Power2pay\PMS\bin\Debug\PMS.exe
+C:\Projects\Power2pay\Power2pay\PMS\bin\Debug\PMS.pdb
+C:\Projects\Power2pay\Power2pay\PMS\obj\Debug\PMS.csprojResolveAssemblyReference.cache
+C:\Projects\Power2pay\Power2pay\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\PMS\obj\Debug\PMS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\PMS\obj\Debug\PMS.exe
+C:\Projects\Power2pay\Power2pay\PMS\obj\Debug\PMS.pdb

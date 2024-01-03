@@ -1,0 +1,8 @@
+C:\Projects\Power2pay\Power2pay\EDS\bin\Debug\EDS.exe.config
+C:\Projects\Power2pay\Power2pay\EDS\bin\Debug\EDS.exe
+C:\Projects\Power2pay\Power2pay\EDS\bin\Debug\EDS.pdb
+C:\Projects\Power2pay\Power2pay\EDS\obj\Debug\EDS.csprojResolveAssemblyReference.cache
+C:\Projects\Power2pay\Power2pay\EDS\obj\Debug\EDS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\EDS\obj\Debug\EDS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\EDS\obj\Debug\EDS.exe
+C:\Projects\Power2pay\Power2pay\EDS\obj\Debug\EDS.pdb

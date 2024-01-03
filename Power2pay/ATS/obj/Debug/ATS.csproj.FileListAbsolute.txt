@@ -1,0 +1,8 @@
+C:\Projects\Power2pay\Power2pay\ATS\bin\Debug\ATS.exe.config
+C:\Projects\Power2pay\Power2pay\ATS\bin\Debug\ATS.exe
+C:\Projects\Power2pay\Power2pay\ATS\bin\Debug\ATS.pdb
+C:\Projects\Power2pay\Power2pay\ATS\obj\Debug\ATS.csprojResolveAssemblyReference.cache
+C:\Projects\Power2pay\Power2pay\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Projects\Power2pay\Power2pay\ATS\obj\Debug\ATS.csproj.GenerateResource.Cache
+C:\Projects\Power2pay\Power2pay\ATS\obj\Debug\ATS.exe
+C:\Projects\Power2pay\Power2pay\ATS\obj\Debug\ATS.pdb

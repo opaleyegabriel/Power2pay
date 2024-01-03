@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Power2pay" Class="Power2payDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=NEWHOOG\SQLEXPRESS;Initial Catalog=Power2pay;User ID=sa" SettingsObjectName="landsales.Properties.Settings" SettingsPropertyName="Power2payConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_Company" Member="tbl_Companies">
+    <Type Name="tbl_Company">
+      <Column Name="companyid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="company" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="website" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="aEmail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sEmail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tEmail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mobile" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="branch" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="status" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
